@@ -1,1 +1,3 @@
-print('Heello Word')
+while True:
+    print('Heello Word')
+
